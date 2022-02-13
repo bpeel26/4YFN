@@ -5,7 +5,6 @@ Nuwefruit is a startup that seeks to revolutionize the habits of the population 
 
 ## Dataset
 Two datasets will be used: the first one contains data on Nuwefruit's customers 'CLIENT TABLE' and the other one contains data on the orders 'ORDERS TABLE' placed by them.
-The customer dataset 'CLIENT TABLE' contains the following variables:
 
 ## Objectives
 1. Make an exploratory analysis of the data that allows to:
